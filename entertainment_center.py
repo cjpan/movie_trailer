@@ -37,7 +37,7 @@ ratatouille = media.Movie(
 midnight_in_paris = media.Movie(
     "Midnight in Paris",
     "Going back in time to meet authors",
-# noqa    "http://upload.wikimedia.org/wikipedia/en/9/9f/Midnight_in_Paris_Poster.jpg",
+    "http://upload.wikimedia.org/wikipedia/en/9/9f/Midnight_in_Paris_Poster.jpg",  # noqa
     "https://www.youtube.com/watch?v=atLg2wQQxvU",
     "May 11, 2011",
     "Kathy Bates, Adrien Brody")
